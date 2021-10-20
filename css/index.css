@@ -1,0 +1,26 @@
+h2 {
+  font-family: 'Times New Roman', serif;
+  font-size: 22px;
+  color: limegreen;
+}
+
+blockquote {
+  margin: 0 0 0 60px;
+  text-align: justify;
+}
+
+img {
+  width: 300px;
+  border: 8px solid limegreen;
+  display: block;
+  margin: auto
+}
+
+#diduknow {
+  padding: 10px;
+  border: 3px solid limegreen;
+  background-image: url("../imagens/fundo.png");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: cover;
+}
